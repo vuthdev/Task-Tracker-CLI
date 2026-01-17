@@ -79,12 +79,3 @@ Project idea source:
 👉 [https://roadmap.sh/projects/task-tracker](https://roadmap.sh/projects/task-tracker)
 
 ---
-
-If you want, I can:
-
-* Add a **“How to Run”** section
-* Write a **short GitHub repo description (1–2 lines)**
-* Make it **more professional for recruiters**
-* Add **example command output**
-
-Just tell me 😊
